@@ -1,2 +1,3 @@
 # Electronics_store
-E-commerce-website
+E-commerce-website by using HTML, CSS and javascripte.
+
